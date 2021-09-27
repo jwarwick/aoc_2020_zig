@@ -1,0 +1,4 @@
+acc +5
+acc -10
+acc +1
+acc +1
